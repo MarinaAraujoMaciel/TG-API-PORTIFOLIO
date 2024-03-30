@@ -32,9 +32,9 @@ Este portfólio acadêmico foi desenvolvido com trabalhos realizados na minha fo
 
 # Problema: 
 
- - Desenvolver um Sistema Web para automatizar o processo de catalogar vagas de diversas profissões com ênfase na área de TI e configurar métricas para pontos como tipos de conhecimento, habilidades e competências. Visualmente deverá ter informações do tipo estratégicas (gráficos), facilidades de usabilidade e operação bem como toda a documentação de desenvolvimento lastreado no GitHub com todos os processos necessários para a fidelização do cliente.
+ > Desenvolver um Sistema Web para automatizar o processo de catalogar vagas de diversas profissões com ênfase na área de TI e configurar métricas para pontos como tipos de conhecimento, habilidades e competências. Visualmente deverá ter informações do tipo estratégicas (gráficos), facilidades de usabilidade e operação bem como toda a documentação de desenvolvimento lastreado no GitHub com todos os processos necessários para a fidelização do cliente.
 
- Como foi apresentasado, tinhamos que realizar uma aplicação WEB, ou seja, um site de vagas onde estivesse vagas catálogadas, com os seguintes requisitos:
+ > Como foi apresentasado, tinhamos que realizar uma aplicação WEB, ou seja, um site de vagas onde estivesse vagas catálogadas, com os seguintes requisitos:
 
 - Linguagem Python (Requisito Fatec)
 - Linguagem HTML e CSS (Requisito Fatec)
@@ -45,11 +45,11 @@ Este portfólio acadêmico foi desenvolvido com trabalhos realizados na minha fo
 
 # Solução: 
 
- - Em uma colaboração conjunta entre nosso grupo de desenvolvimento e o cliente, estabelecemos a criação de um site de vagas de emprego com uma funcionalidade crucial: a capacidade de segmentar vagas específicas da área de TI das demais. Este projeto, batizado como DISPVAG (Sistema de Gerenciamento de Vagas), foi concebido como uma solução simples, porém eficaz, pelos alunos recém-ingressos no primeiro semestre da FATEC de São José dos Campos, no ano de 2021.
+ > Em uma colaboração conjunta entre nosso grupo de desenvolvimento e o cliente, estabelecemos a criação de um site de vagas de emprego com uma funcionalidade crucial: a capacidade de segmentar vagas específicas da área de TI das demais. Este projeto, batizado como DISPVAG (Sistema de Gerenciamento de Vagas), foi concebido como uma solução simples, porém eficaz, pelos alunos recém-ingressos no primeiro semestre da FATEC de São José dos Campos, no ano de 2021.
 
-O DISPVAG foi projetado para atender às necessidades crescentes do mercado de trabalho, proporcionando aos candidatos uma experiência de busca de emprego mais personalizada e eficiente. Com recursos de filtragem avançados, os usuários podem facilmente encontrar as oportunidades que correspondem às suas habilidades e interesses na área de tecnologia da informação, enquanto as empresas podem alcançar candidatos qualificados de forma mais eficaz.
+> O DISPVAG foi projetado para atender às necessidades crescentes do mercado de trabalho, proporcionando aos candidatos uma experiência de busca de emprego mais personalizada e eficiente. Com recursos de filtragem avançados, os usuários podem facilmente encontrar as oportunidades que correspondem às suas habilidades e interesses na área de tecnologia da informação, enquanto as empresas podem alcançar candidatos qualificados de forma mais eficaz.
 
-Além disso, o sistema foi desenvolvido com uma interface intuitiva e amigável, visando garantir uma navegação suave e uma experiência agradável para todos os usuários. 
+> Além disso, o sistema foi desenvolvido com uma interface intuitiva e amigável, visando garantir uma navegação suave e uma experiência agradável para todos os usuários. 
 Desde o seu lançamento, o DISPVAG tem recebido feedback positivo tanto de empresas quanto de candidatos, consolidando-se como uma ferramenta essencial no cenário de recrutamento e seleção na região de São José dos Campos.
 
 FOTO DO PROJETO: 
