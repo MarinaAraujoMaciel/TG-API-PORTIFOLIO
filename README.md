@@ -1,5 +1,5 @@
 # Marina Angela Nobre Araújo Maciel
-foto 
+<a href="https://github.com/MarinaAraujoMaciel/TG---MARINA/blob/main/Imagens/PERFIL.jpeg">Minha foto de Perfil</a>
 
 ## Contatos: 
 
