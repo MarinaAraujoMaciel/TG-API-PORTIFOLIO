@@ -52,8 +52,12 @@ O DISPVAG foi projetado para atender às necessidades crescentes do mercado de t
 Além disso, o sistema foi desenvolvido com uma interface intuitiva e amigável, visando garantir uma navegação suave e uma experiência agradável para todos os usuários. 
 Desde o seu lançamento, o DISPVAG tem recebido feedback positivo tanto de empresas quanto de candidatos, consolidando-se como uma ferramenta essencial no cenário de recrutamento e seleção na região de São José dos Campos.
 
-FOTO DO PROJETO: 
-VIDEO DO PROJETO: 
+
+> VIDEO DO PROJETO: 
+
+<img src="https://github.com/TechForce-ADS/DispVag/blob/main/Projeto/Imagens_API/video3sprint3.gif" >
+
+
 
 
 # Tecnologias Utilizadas:
