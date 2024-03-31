@@ -28,13 +28,13 @@ Este portfólio acadêmico foi desenvolvido com trabalhos realizados na minha fo
  FOTO
 
  A Faculdade de Tecnologia Prof. Jessen Vidal (FATECSJC) de São José dos Campos, faz parte das importantes instituições brasileiras de ensino superior de tecnologia do estado de São Paulo pertencentes ao Centro Estadual de Educação Tecnológica Paula Souza (CEETEPS), possuindo excelência em seus cursos de graduação, tem como objetivo formar tecnólogos, profissionais nas quais as áreas de atuação são mais específicas comparado às demais modalidades de graduação (Licenciatura e Bacharelado).
- Iniciando em 2019 com seu primeiro PI (Projeto Integrador), que mais tarde foi intitulado como API (Aprendizado por Projeto Integrador) a FATEC Prof. Jessen Vidal se disponibilizou a ser a empresa parceira neste projeto pioneiro da própria instituição no qual tem como finalidade avaliar seus alunos por meio de um trabalho, recorrente semestralmente, que aborda problemas e soluções do mercado atual na área de especialização.
+ Iniciando em 2019 com seu primeiro PI (Projeto Integrador), que mais tarde foi intitulado como API (Aprendizado por Projeto Integrador) a FATEC Prof. Jessen Vidal se disponibilizou a ser a empresa parceira neste projeto pioneiro da própria instituição no qual tem como finalidade avaliar seus alunos por meio de um trabalho, recorrente semestral, que aborda problemas e soluções do mercado atual na área de especialização.
 
 # Problema: 
 
- Desenvolver um Sistema Web para automatizar o processo de catalogar vagas de diversas profissões com ênfase na área de TI e configurar métricas para pontos como tipos de conhecimento, habilidades e competências. Visualmente deverá ter informações do tipo estratégicas (gráficos), facilidades de usabilidade e operação bem como toda a documentação de desenvolvimento lastreado no GitHub com todos os processos necessários para a fidelização do cliente.
+ Desenvolver um Sistema Web para automatizar o processo de catalogar vagas de diversas profissões com ênfase na área de TI e configurar métricas para pontos como tipos de conhecimento, habilidades e competências. Visualmente deverá ter informações do tipo estratégicos (gráficos), facilidades de usabilidade e operação bem como toda a documentação de desenvolvimento lastreado no GitHub com todos os processos necessários para a fidelização do cliente.
 
- Como foi apresentasado, tinhamos que realizar uma aplicação WEB, ou seja, um site de vagas onde estivesse vagas catálogadas, com os seguintes requisitos:
+ Como foi apresentado, tinhamos que realizar uma aplicação WEB, ou seja, um site de vagas onde estivesse catálogadas, com os seguintes requisitos:
 
 - Linguagem Python (Requisito Fatec)
 - Linguagem HTML e CSS (Requisito Fatec)
@@ -78,24 +78,25 @@ Python e outras linguagens: Linguagens de programação essenciais para o desenv
 Visual Studio Code: Ambiente de desenvolvimento integrado (IDE) utilizado para a codificação e depuração do código-fonte de forma eficiente.
 - SQL: Linguagem utilizada para a manipulação e consulta de dados no banco de dados do sistema.
 
-# Contribuições Pessoal:
+# Contribuição Pessoal:
 
-Cada membro da equipe contribuiu de forma significativa para o sucesso do projeto. No meu caso, minhas contribuições pessoais foram as seguintes:
+Cada membro da equipe contribuiu de forma significativa para o sucesso do projeto.
+Minha Contribuição:
 
-Análise e Requisitos: Inicialmente, liderei a fase de análise e definição de requisitos. Isso incluiu a elaboração do Backlog da Sprint, o acompanhamento do Burndown, o gerenciamento de equipes e a aplicação de metodologias como Design Thinking e BSC (Balanced Scorecard).
+ - Análise e Requisitos: Inicialmente, liderei a fase de análise e definição de requisitos. Isso incluiu a elaboração do Backlog da Sprint, o acompanhamento do Burndown, o gerenciamento de equipes e a aplicação de metodologias como Design Thinking e BSC (Balanced Scorecard).
+ - Posteriormente, optei por me dedicar ao desenvolvimento propriamente dito, contribuindo para a criação de páginas e aprimoramentos no design do projeto.
 
-Posteriormente, optei por me dedicar ao desenvolvimento propriamente dito, contribuindo para a criação de páginas e aprimoramentos no design do projeto.
 Essa transição de responsabilidades dentro da equipe permitiu uma abordagem flexível e adaptável, resultando em um produto final robusto e alinhado com as expectativas do cliente.
 
 
 # Hard Skills 
 
- - HTML e CSS: Sei fazer com atonomia
- - Pacote Office: Sei fazer com atonomia
- - Gestão de Código e Colaboração:  Sei fazer com atonomia
- - GitHub:  Sei fazer com atonomia
- - Desenvolvimento Backend e Funcionalidades :Sei fazer com ajuda
- - Python e outras linguagens: Sei fazere com ajuda
+ - HTML e CSS: Sei fazer com autonomia
+ - Pacote Office: Sei fazer com autonomia
+ - Gestão de Código e Colaboração: Sei fazer com aUtonomia
+ - GitHub:  Sei fazer com autonomia
+ - Desenvolvimento Backend e Funcionalidades: Sei fazer com ajuda
+ - Python e outras linguagens: Sei fazer com ajuda
  - Manipulação e Consulta de Dados: Sei fazer com ajuda
  - MYSQL: Sei fazer com autonomia
 
