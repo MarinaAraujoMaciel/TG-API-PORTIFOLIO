@@ -25,8 +25,7 @@ Este portfólio acadêmico foi desenvolvido com trabalhos realizados na minha fo
 > Empresa Parceira :
  - FATEC SÃO JOSÉ DOS CAMPOS - PROF. JASSEN VIDAL
 
- <img src=" https://github.com/MarinaAraujoMaciel/TG-API-PORTIFOLIO/blob/main/Imagens/FATEC_SJC.png
-" width="400" height="400">
+ <img src=" https://github.com/MarinaAraujoMaciel/TG-API-PORTIFOLIO/blob/main/Imagens/FATEC_SJC.png" width="400" height="400">
 
 
  A Faculdade de Tecnologia Prof. Jessen Vidal (FATECSJC) de São José dos Campos, faz parte das importantes instituições brasileiras de ensino superior de tecnologia do estado de São Paulo pertencentes ao Centro Estadual de Educação Tecnológica Paula Souza (CEETEPS), possuindo excelência em seus cursos de graduação, tem como objetivo formar tecnólogos, profissionais nas quais as áreas de atuação são mais específicas comparado às demais modalidades de graduação (Licenciatura e Bacharelado).
