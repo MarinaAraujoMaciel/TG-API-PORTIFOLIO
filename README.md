@@ -45,6 +45,13 @@ Este portfólio acadêmico foi desenvolvido com trabalhos realizados na minha fo
 
 # Solução: 
 
+<img src="https://github.com/TechForce-ADS/imagens/blob/main/logo%20dispvag.jpeg" >
+
+- Link do projeto: 
+```
+https://github.com/TechForce-ADS/DispVag
+```
+
  Em uma colaboração conjunta entre nosso grupo de desenvolvimento e o cliente, estabelecemos a criação de um site de vagas de emprego com uma funcionalidade crucial: a capacidade de segmentar vagas específicas da área de TI das demais. Este projeto, batizado como DISPVAG (Sistema de Gerenciamento de Vagas), foi concebido como uma solução simples, porém eficaz, pelos alunos recém-ingressos no primeiro semestre da FATEC de São José dos Campos, no ano de 2021.
 
 O DISPVAG foi projetado para atender às necessidades crescentes do mercado de trabalho, proporcionando aos candidatos uma experiência de busca de emprego mais personalizada e eficiente. Com recursos de filtragem avançados, os usuários podem facilmente encontrar as oportunidades que correspondem às suas habilidades e interesses na área de tecnologia da informação, enquanto as empresas podem alcançar candidatos qualificados de forma mais eficaz.
@@ -58,29 +65,48 @@ Desde o seu lançamento, o DISPVAG tem recebido feedback positivo tanto de empre
 <img src="https://github.com/TechForce-ADS/DispVag/blob/main/Projeto/Imagens_API/video3sprint3.gif" >
 
 
-
-
 # Tecnologias Utilizadas:
 
-> Para o desenvolvimento desse projeto utilizamos as seguintes tecnologias:
- - HTML
- - CSS
- - Canvas
- - Pacote Office
- - GitHub
- - Discord
- - Python e outras linguagens
- - Visual Studio Code
- - SQL
+> Para a realização deste projeto, empregamos uma variedade de tecnologias essenciais, incluindo:
 
-> Contribuições Pessoais: 
- - Para o desenvolvimento desse sistema eu comecei fazendo a parte de analise e requisitos, na qual eu realizei tarefas como montagens de Backlog da Sprint, Burndown, gerenciamento de equipes, Design Thiking, BSC (Balanced Scorecard). 
- Apos um periodo eu resolvi sair dessa função e colaborar com a parte de desenvolvimento, onde ajudei na criação das paginas e melhorias do desing do projeto. 
+- HTML e CSS: Utilizados para a estruturação e estilização do site, garantindo uma experiência visualmente agradável e coesa.
+Canvas: Empregado para a criação de elementos gráficos interativos, enriquecendo a experiência do usuário.
+Pacote Office: Utilizado para a documentação e comunicação do projeto, incluindo relatórios, apresentações e planilhas de acompanhamento.
+- GitHub: Plataforma fundamental para o versionamento e colaboração do código-fonte, permitindo um desenvolvimento eficiente em equipe.
+- Discord: Ferramenta de comunicação utilizada para facilitar a interação e coordenação entre os membros da equipe, agilizando o processo de desenvolvimento.
+Python e outras linguagens: Linguagens de programação essenciais para o desenvolvimento do backend e de funcionalidades específicas do sistema.
+Visual Studio Code: Ambiente de desenvolvimento integrado (IDE) utilizado para a codificação e depuração do código-fonte de forma eficiente.
+- SQL: Linguagem utilizada para a manipulação e consulta de dados no banco de dados do sistema.
+
+# Contribuições Pessoal:
+
+Cada membro da equipe contribuiu de forma significativa para o sucesso do projeto. No meu caso, minhas contribuições pessoais foram as seguintes:
+
+Análise e Requisitos: Inicialmente, liderei a fase de análise e definição de requisitos. Isso incluiu a elaboração do Backlog da Sprint, o acompanhamento do Burndown, o gerenciamento de equipes e a aplicação de metodologias como Design Thinking e BSC (Balanced Scorecard).
+
+Posteriormente, optei por me dedicar ao desenvolvimento propriamente dito, contribuindo para a criação de páginas e aprimoramentos no design do projeto.
+Essa transição de responsabilidades dentro da equipe permitiu uma abordagem flexível e adaptável, resultando em um produto final robusto e alinhado com as expectativas do cliente.
 
 
 # Hard Skills 
 
+ - HTML e CSS: Sei fazer com atonomia
+ - Pacote Office: Sei fazer com atonomia
+ - Gestão de Código e Colaboração:  Sei fazer com atonomia
+ - GitHub:  Sei fazer com atonomia
+ - Desenvolvimento Backend e Funcionalidades :Sei fazer com ajuda
+ - Python e outras linguagens: Sei fazere com ajuda
+ - Manipulação e Consulta de Dados: Sei fazer com ajuda
+ - MYSQL: Sei fazer com autonomia
+
+
 # Soft Skiils
+
+ - Proatividade
+ - Comunicação 
+ - Trabalho em Equipe
+ - Colaboração
+ - Liderança
 
 
 
