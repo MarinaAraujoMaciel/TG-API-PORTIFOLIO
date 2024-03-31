@@ -45,7 +45,7 @@ Este portfólio acadêmico foi desenvolvido com trabalhos realizados na minha fo
 
 # Solução: 
 
-<img src="https://github.com/TechForce-ADS/imagens/blob/main/logo%20dispvag.jpeg" >
+<img src="https://github.com/TechForce-ADS/imagens/blob/main/logo%20dispvag.jpeg" width="200" height="200">
 
 - Link do projeto: 
 ```
