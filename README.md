@@ -1,5 +1,6 @@
 # Marina Angela Nobre Araújo Maciel
 <a href="https://github.com/MarinaAraujoMaciel/TG---MARINA/blob/main/Imagens/PERFIL.jpeg">Minha foto de Perfil</a>
+<img src="https://github.com/MarinaAraujoMaciel/TG---MARINA/blob/main/Imagens/PERFIL.jpeg" alt="Girl in a jacket" width="500" height="600">
 
 ## Contatos: 
 
