@@ -101,7 +101,7 @@ Essa transição de responsabilidades dentro da equipe permitiu uma abordagem fl
  - MYSQL: Sei fazer com autonomia
 
 
-# Soft Skiils
+# Soft Skills
 
  - Proatividade
  - Comunicação 
