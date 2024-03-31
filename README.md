@@ -7,7 +7,7 @@ foto
 ```
 https://www.linkedin.com/in/marinaangela/
 ```
-> Github
+> Githubs
 ```
 https://github.com/MarinaAraujoMaciel?tab=repositories
 ```
