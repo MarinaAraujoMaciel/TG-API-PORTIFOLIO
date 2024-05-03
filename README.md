@@ -104,11 +104,16 @@ Essa transição de responsabilidades dentro da equipe permitiu uma abordagem fl
 
 # Soft Skills
 
- - Proatividade
- - Comunicação 
- - Trabalho em Equipe
+
+ex: precisei usar de liderança para conter os ânimos dos membros quando tivemos problemas com a primeira entrega.
+Real no sentido de mostrar algo que realmente aconteceu e você precisou usar a soft skill.
+
+
+ - Proatividade: Precisei ter a proatividade para realizar algumas funções no decorrer das sprits que não eram minhas e assumi a responsábilidade para nao faltar em relação as entregas de valores para o cliente
+ - Comunicação: trabalhei em mim a comunicação com o grupo quando entrei em um grupo na qual todos ja se conhecia e eu era a novata e para me enturmar e nao ficar de escanteio no projeto precisei trabalhar a comunicação por minha parte
+ - Trabalho em Equipe: durante as entregas foi preciso desenvolver o trabalho em equipe quando cada um ficou com uma dupla e responsavel pela entrega de partes do trabalho que se complementam
  - Colaboração
- - Liderança
+ - Liderança: Precisei ser lider quando tivemos problemas para entregar as primeiras etregas do API
 
 
 
