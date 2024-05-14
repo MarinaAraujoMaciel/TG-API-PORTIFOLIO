@@ -104,11 +104,6 @@ Essa transição de responsabilidades dentro da equipe permitiu uma abordagem fl
 
 # Soft Skills
 
-
-ex: precisei usar de liderança para conter os ânimos dos membros quando tivemos problemas com a primeira entrega.
-Real no sentido de mostrar algo que realmente aconteceu e você precisou usar a soft skill.
-
-
  - Proatividade: Demonstrei proatividade ao assumir responsabilidades adicionais durante as sprints, garantindo que as tarefas fossem concluídas dentro do prazo estabelecido e que as entregas para o cliente não fossem comprometidas.
 
  - Comunicação: Melhorei minha comunicação ao ingressar em um grupo onde eu era a novata. Reconhecendo sua importância para a colaboração eficaz, participei ativamente das discussões, compartilhei ideias e evitei ser marginalizada no projeto.
