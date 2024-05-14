@@ -109,13 +109,15 @@ ex: precisei usar de liderança para conter os ânimos dos membros quando tivemo
 Real no sentido de mostrar algo que realmente aconteceu e você precisou usar a soft skill.
 
 
- - Proatividade: Precisei ter a proatividade para realizar algumas funções no decorrer das sprits que não eram minhas e assumi a responsábilidade para nao faltar em relação as entregas de valores para o cliente
- - Comunicação: trabalhei em mim a comunicação com o grupo quando entrei em um grupo na qual todos ja se conhecia e eu era a novata e para me enturmar e nao ficar de escanteio no projeto precisei trabalhar a comunicação por minha parte
- - Trabalho em Equipe: durante as entregas foi preciso desenvolver o trabalho em equipe quando cada um ficou com uma dupla e responsavel pela entrega de partes do trabalho que se complementam
- - Colaboração
- - Liderança: Precisei ser lider quando tivemos problemas para entregar as primeiras etregas do API
+ - Proatividade: Demonstrei proatividade ao assumir responsabilidades adicionais durante as sprints, garantindo que as tarefas fossem concluídas dentro do prazo estabelecido e que as entregas para o cliente não fossem comprometidas.
 
+ - Comunicação: Melhorei minha comunicação ao ingressar em um grupo onde eu era a novata. Reconhecendo sua importância para a colaboração eficaz, participei ativamente das discussões, compartilhei ideias e evitei ser marginalizada no projeto.
+ 
+ - Trabalho em Equipe: Demonstrei habilidades de trabalho em equipe ao colaborar com colegas durante as entregas, onde cada membro foi designado a uma dupla responsável por partes complementares do projeto. Essa coordenação eficaz permitiu uma integração suave das diferentes partes do trabalho, resultando em entregas coesas e bem-sucedidas.
 
+ - Colaboração: Envolvi-me ativamente na colaboração dentro da equipe, oferecendo apoio e assistência sempre que necessário e buscando oportunidades para compartilhar conhecimento e experiência. Essa abordagem colaborativa foi fundamental para superar desafios e alcançar nossos objetivos coletivos.
+
+ - Liderança: Assumi um papel de liderança quando enfrentamos desafios na entrega das primeiras etapas do API. Guiando a equipe com determinação e visão, busquei soluções criativas e motivadoras para resolver os problemas, garantindo que o projeto avançasse sem contratempos significativos.
 
 
 
